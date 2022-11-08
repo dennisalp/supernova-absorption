@@ -1,2 +1,3 @@
 # supernova-absorption
-Model of X-ray and gamma-ray absorption in core-collapse supernova explosions based on 3D neutrino-driven explosion simulations
+
+Code used in [Dennis Alp et al 2018 ApJ 864 175](https://iopscience.iop.org/article/10.3847/1538-4357/aad737).
